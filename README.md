@@ -10,6 +10,7 @@
 <p>At line#13 replace "PASSWORD_HERE" with Your Email Account Password</p>
 <p>At line#17 replace "SENDER_EMAIL_ADDRESS_HERE" with Your Email Address can also use this format (Example Name <example@mail.com>)</p>
 <p>At line#19 replace "SUBJECT_HERE" with Subject of email</p>
+<p>Make Sure to Edit email.txt as you like</p>
 
 <h2>Running</h2>
 <p>Just do node index.js in cmd to run</p>
