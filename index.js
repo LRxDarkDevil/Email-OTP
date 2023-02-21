@@ -7,7 +7,7 @@
   html = html.replace("{replace}", code);
 //Creating Transport
   let transporter = nodemailer.createTransport({
-    host: "HOST_HERE",//cp7.mywebsitebox.com
+    host: "HOST_HERE",
     auth: {
       user: "EMAIL_ADDRESS_HERE", 
       pass: "PASSWORD_HERE",
