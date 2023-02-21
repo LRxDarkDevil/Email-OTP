@@ -1,4 +1,4 @@
-  let mail = "RECEIVES_EMAIL_ADDRESS_HERE"
+  let mail = "RECEIVER_EMAIL_ADDRESS_HERE"
 // Getting random code
   let code = Math.floor(Math
     .random() * (999999 - 100000 + 1)) + 100000;
