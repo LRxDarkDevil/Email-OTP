@@ -1,6 +1,6 @@
 # otp-system
-OTP System Made in NodeJS
-Make Sure You Have NodeJS installed.
+<p>OTP System Made in NodeJS</p>
+ <p>Make Sure You Have NodeJS installed.</p>
 ## Editing config
 Go to index.js 
 At line#1 replace "RECEIVER_EMAIL_ADDRESS_HERE" with Recivers Email Address
